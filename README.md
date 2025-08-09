@@ -1,6 +1,8 @@
 🪒 Barbearia Elite
 Estilo e tradição em cada corte — Site institucional da Barbearia Elite, localizada em Brasília, trazendo excelência em cuidados masculinos, combinando técnicas tradicionais com os melhores produtos do mercado.
 
+Confira: https://carlossdiaas.github.io/Barbearia-Elite/
+
 📜 Sobre o Projeto
 Este projeto é um site responsivo desenvolvido para apresentar os serviços, história e facilidades de agendamento da Barbearia Elite.
 O design é focado em transmitir elegância, tradição e modernidade, reforçando a identidade da marca.
